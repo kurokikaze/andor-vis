@@ -1,0 +1,23 @@
+{
+  "name": "andor-vis",
+  "version": "0.0.1",
+  "description": "Andor map graph and visualisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kurokikaze/andor-vis.git"
+  },
+  "keywords": [
+    "boardgame",
+    "andor"
+  ],
+  "author": "kurokikaze@yandex.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurokikaze/andor-vis/issues"
+  },
+  "homepage": "https://github.com/kurokikaze/andor-vis#readme"
+}
